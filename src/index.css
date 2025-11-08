@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Roboto Condensed", "Inter", system-ui, sans-serif;
+  --color-brand-blue: #1da1f2;
+}
+
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  /* background-color: black; */
+}
+
+.bbh-sans-bartle-regular {
+  font-family: "BBH Sans Bartle", sans-serif;
+}
+
+.roboto-condensed {
+  font-family: "Roboto Condensed", sans-serif;
+}
