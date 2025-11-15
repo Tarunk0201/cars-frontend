@@ -69,9 +69,7 @@ const Sidebar = () => {
   const transformBrands = (brandsArray) => {
     return brandsArray.map((brand) => ({
       name: brand,
-      logoUrl: `https://placehold.co/100x60/f0f0f0/333?text=${encodeURIComponent(
-        brand
-      )}`,
+      logoUrl: `/logo/${brand}.png`,
     }));
   };
 
