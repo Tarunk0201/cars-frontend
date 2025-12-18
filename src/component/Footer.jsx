@@ -42,7 +42,7 @@ const Footer = () => {
           {/* Social Media Icons */}
           <div className="flex justify-center gap-6">
             <a
-              href="https://twitter.com/yourprofile"
+              href="https://x.com/tarundev_in"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Twitter profile"
@@ -52,7 +52,7 @@ const Footer = () => {
               <Twitter size={20} strokeWidth={2} />
             </a>
             <a
-              href="https://github.com/yourprofile"
+              href="https://github.com/Tarunk0201"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="GitHub profile"
@@ -62,7 +62,7 @@ const Footer = () => {
               <Github size={20} strokeWidth={2} />
             </a>
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://www.linkedin.com/in/tarun-kumar-singh-b939972a2/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn profile"
